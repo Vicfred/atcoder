@@ -1,5 +1,5 @@
 // C - Alchemist
-// Sorting, Greedy
+// Greedy, Sorting
 #include <iostream>
 #include <vector>
 #include <algorithm>
