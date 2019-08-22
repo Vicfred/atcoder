@@ -1,8 +1,14 @@
 *
-*!.cpp
-*!.py
-*!.hs
-*!.d
-*!.ml
+/*/
+
+!LICENSE
+!README.md
 !.gitignore
+
+!/*/
+!*/*.cpp
+!*/*.py
+!*/*.hs
+!*/*.d
+!*/*.ml
 

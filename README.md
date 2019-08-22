@@ -1,2 +1,2 @@
 # atcoder
-AtCoder problem solutions
+AtCoder problem solutions :)
