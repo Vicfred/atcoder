@@ -27,7 +27,7 @@ int main() {
     // a priority queue would work too
     multiset<int, greater<int>, allocator<int>> available;
 
-    // start from the M, go backwards
+    // start from the M-th day go backwards
     // and take the best possible job
     for(int day = M - 1; day >= 0; day--) {
         // jobs that take M-day days to complete
